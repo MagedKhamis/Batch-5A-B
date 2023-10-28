@@ -7,8 +7,13 @@ the file has bee reviewed
 
 Please review again after the pull request 
 
+update in GitHub
 
+<<<<<<< HEAD
 
 This file just got updated
 
 This file just got the 2nd update
+=======
+This file just got updated
+>>>>>>> fffe4f6ee7c98584f8d4421109dc1f89cd6c64be
